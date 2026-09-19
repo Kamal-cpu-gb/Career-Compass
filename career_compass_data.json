@@ -1,0 +1,12 @@
+{
+  "favourites": [],
+  "notes": [],
+  "skill_progress": {
+    "Chemical Engineering": {
+      "Problem-solving": false,
+      "Maths/data analysis": false,
+      "CAD/process software": false,
+      "Teamwork": false
+    }
+  }
+}
